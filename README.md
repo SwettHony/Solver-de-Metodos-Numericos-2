@@ -1,5 +1,3 @@
-# Solver-de-Metodos-Numericos-2
-
 # Métodos Numéricos — Derivación e Integración
 
 Programa en C++ que implementa métodos numéricos de derivación e integración, con un **evaluador de expresiones matemáticas propio** (parser recursivo descendente) que permite ingresar cualquier función `f(x)` como texto.
